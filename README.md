@@ -2,7 +2,7 @@
 
 
 ## Pengertian Front-End
-Front-End adalah bidang yang berperan untuk mengurus apa saja yang dilihat oleh user seperti teks, gambar, tombol serta interaksi antara situs atau web dengan penggunanya. Tugas dari seorang Front-end Developer adalah untuk memwujudkan sebuah design UI/UX yang sudah jadi menjadi sebuah halaman web. Front-End Developer juga harus memastikan agar fungsionalitas dari tampilan web yang dibuat seperti gambar, tombol dan konten dapat berjalan dengan baik tanpa menganggu user untuk memenuhi kebutuhannya.
+"Front-End" adalah bidang yang berperan untuk mengurus apa saja yang dilihat oleh user seperti teks, gambar, tombol serta interaksi antara situs atau web dengan penggunanya. Tugas dari seorang Front-end Developer adalah untuk memwujudkan sebuah design UI/UX yang sudah jadi menjadi sebuah halaman web. Front-End Developer juga harus memastikan agar fungsionalitas dari tampilan web yang dibuat seperti gambar, tombol dan konten dapat berjalan dengan baik tanpa menganggu user untuk memenuhi kebutuhannya.
 
 
 ## Internet
